@@ -32,6 +32,8 @@ set cursorline
 colorscheme asmanian_blood
 set guifont=Monospace\ Bold\ 10
 
+runtime macros/matchit.vim  " Enable xml '%' tag matching
+
 "function XmlSettings()
   "syn spell toplevel
   "set spell
